@@ -104,3 +104,9 @@ permalink: /cfp/
 <p>Please add the [BULLETIN] label to your submission title in PCS.</p>
 
 <p>All submissions need to be made through the PCS system. Please go to: <a href="https://new.precisionconference.com/submissions">https://new.precisionconference.com/submissions</a>, and select Society: VGTC, Conference/Journal: VIS2023, Track: VIS 2023 Vis4PanDemRes.</p>
+
+<hr>
+
+<h3>Further Information</h3>
+
+<p>For questions, please do not hesitate to email us at: <a href="mailto:vis4pandemres2023@cgv.tugraz.at">vis4pandemres2023@cgv.tugraz.at</a></p>

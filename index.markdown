@@ -21,4 +21,6 @@ home: true
 	        <li>for stimulating a new R&D agenda in preparation for future emergency responses.</li>
 		</ul>
 	</ul>
+	
+	<p>For questions, please do not hesitate to email us at: <a href="mailto:vis4pandemres2023@cgv.tugraz.at">vis4pandemres2023@cgv.tugraz.at</a></p>
 </div>
