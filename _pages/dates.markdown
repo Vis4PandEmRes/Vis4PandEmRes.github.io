@@ -8,4 +8,4 @@ permalink: /dates/
 
 |  **Submission Due:**  |  1 July 2023  |
 |  **Notification:**  |  28 July 2023  |
-|  **Camera Ready:**  |  21 August 2023 |
+|  **Camera Ready:**  |  18 August 2023 |
