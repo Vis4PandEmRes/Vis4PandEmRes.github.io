@@ -85,7 +85,7 @@ permalink: /cfp/
 	</ul>
 </ul>
 
-<p>We note, authors of accepted bulletin submissions are not required to present these in person at the conference. </p>
+<p>We note, each bulletin video is of 3 minutes maximum and the slides template will be available soon. Authors of accepted bulletin submissions are not required to present these in person at the conference.</p>
 
 <hr>
 
