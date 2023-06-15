@@ -85,7 +85,7 @@ permalink: /cfp/
 	</ul>
 </ul>
 
-<p>We note, each bulletin video is of 3 minutes maximum and the slides template will be available soon. Authors of accepted bulletin submissions are not required to present these in person at the conference.</p>
+<p>We note, each bulletin video is of 3 minutes maximum and the slides template is available <a href="{{site.baseurl}}/files/Vis2023Vis4PandEmRes-16x9-metric.pptx">here</a>. Authors of accepted bulletin submissions are not required to present these in person at the conference.</p>
 
 <hr>
 
@@ -104,6 +104,10 @@ permalink: /cfp/
 <p>Please add the [BULLETIN] label to your submission title in PCS.</p>
 
 <p>All submissions need to be made through the PCS system. Please go to: <a href="https://new.precisionconference.com/submissions">https://new.precisionconference.com/submissions</a>, and select Society: VGTC, Conference/Journal: VIS2023, Track: VIS 2023 Vis4PanDemRes.</p>
+
+<h4>Slides Template</h4>
+
+<p>Please note that each bulletin video is of 3 minutes maximum and you can download the slides template <a href="{{site.baseurl}}/files/Vis2023Vis4PandEmRes-16x9-metric.pptx">here</a>
 
 <hr>
 
