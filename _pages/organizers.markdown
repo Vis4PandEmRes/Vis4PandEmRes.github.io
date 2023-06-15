@@ -28,4 +28,18 @@ London, UK</p>
 <p>Xiaoru Yuan, Beijing University, China</p>
 
 <h3>Program Committee</h3>
-<p>To be announced</p>
+<p>Gennady Andrienko, Fraunhofer IAIS, Germany / City, University of 
+London, UK</p>
+<p>Daniel Archambault, Newcastle University, UK</p>
+<p>Benjamin Bach, Edinburgh University, UK</p>
+<p>Jürgen Bernard, University of Zurich, Switzerland</p>
+<p>Rita Borgo, King's College London, UK</p>
+<p>Siming Chen, Fudan University, China</p>
+<p>Hanna Hauptmann, Utrecht University, Netherlands</p>
+<p>Bob Laramee, Nottingham University, UK</p>
+<p>Silvia Miksch, TU Vienna, Austria</p>
+<p>Kay Nieselt, University of Tuebingen, Germany</p>
+<p>Bernhard Preim, Otto-von-Guericke-Universität Magdeburg, Germany</p>
+<p>Renata Raidou, TU Vienna, Austria</p>
+<p>Cagatay Turkay, Warwick University, UK</p>
+<p>Tatiana von Landesberger, University of Cologne, Germany</p>
