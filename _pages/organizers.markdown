@@ -36,6 +36,7 @@ London, UK</p>
 <p>Rita Borgo, King's College London, UK</p>
 <p>Siming Chen, Fudan University, China</p>
 <p>Hanna Hauptmann, Utrecht University, Netherlands</p>
+<p>Barbora Kozlikova, Masaryk University, Czech Republik</p>
 <p>Bob Laramee, Nottingham University, UK</p>
 <p>Silvia Miksch, TU Vienna, Austria</p>
 <p>Kay Nieselt, University of Tuebingen, Germany</p>
