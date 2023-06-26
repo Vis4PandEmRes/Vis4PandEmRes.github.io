@@ -85,7 +85,7 @@ permalink: /cfp/
 	</ul>
 </ul>
 
-<p>We note, each bulletin video is of 3 minutes maximum and the slides template is available <a href="{{site.baseurl}}/files/Vis2023Vis4PandEmRes-16x9-metric.pptx">here</a>. Authors of accepted bulletin submissions are not required to present these in person at the conference.</p>
+<p>We note, each bulletin video is of 3 minutes maximum and the slides template is available here <a href="{{site.baseurl}}/files/Vis4PandEmRes2023_Slide_Template_16x9-IMPERIAL.pptx">Imperial</a> <a href="{{site.baseurl}}/files/Vis4PandEmRes2023_Slide_Template_16x9-METRIC.pptx">Metric</a>. Authors of accepted bulletin submissions are not required to present these in person at the conference.</p>
 
 <hr>
 
@@ -107,7 +107,7 @@ permalink: /cfp/
 
 <h4>Slides Template</h4>
 
-<p>Please note that each bulletin video is of 3 minutes maximum and you can download the slides template <a href="{{site.baseurl}}/files/Vis2023Vis4PandEmRes-16x9-metric.pptx">here</a>
+<p>Please note that each bulletin video is of 3 minutes maximum and you can download the slides template here <a href="{{site.baseurl}}/files/Vis4PandEmRes2023_Slide_Template_16x9-IMPERIAL.pptx">Imperial</a> <a href="{{site.baseurl}}/files/Vis4PandEmRes2023_Slide_Template_16x9-METRIC.pptx">Metric</a>
 
 <hr>
 
