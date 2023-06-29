@@ -75,7 +75,7 @@ permalink: /cfp/
 
 <p>The workshop will be open to all IEEE VIS attendees. The workshop will solicit two types of contributions:</p>
 <ul>
-	<li>Paper — Authors may submit a technical paper on a piece of work that has not been previously published, and optionally, an accompanying bulletin video (same as the bulletin video below but without a summary document). The length of a paper is 4-6 pages. The paper will undergo a review process with a technical depth and rigor appropriate for VIS workshop papers. Accepted papers will be published in IEEE Xplore and are to be presented during the workshop.</li>
+	<li>Paper — Authors may submit a technical paper on a piece of work that has not been previously published, and optionally, an accompanying bulletin video (same as the bulletin video below but without a summary document). The length of a paper is 4-6 pages plus up to one page of references. The paper will undergo a review process with a technical depth and rigor appropriate for VIS workshop papers. Accepted papers will be published in IEEE Xplore and are to be presented during the workshop.</li>
 	<li>Bulletin — Authors are required to submit a short video to share their work and experience together with a summary document of up to 2 pages maximum. The videos of accepted bulletin submissions, as well as optional videos of accepted papers, will be combined to an archive of videos documenting the contributions to COVID-19 responses. Like abstracts or posters, bulletins are not considered research papers. Because we aim to compile a comprehensive record as specified in (b1), the works suitable to be reported in bulletins include:</li>
 	<ul>
 		<li>A piece of work has already been published, and the authors wish to keep a record in the community archive.</li>
@@ -93,7 +93,7 @@ permalink: /cfp/
 
 <h4>Paper</h4>
 
-<p>Size: 4–6 pages, following the <a href="https://tc.computer.org/vgtc/publications/conference/">IEEE VGTC Conference Style</a></p>
+<p>Size: 4–6 pages plus up to one page of references, following the <a href="https://tc.computer.org/vgtc/publications/conference/">IEEE VGTC Conference Style</a></p>
 
 <p>Please add the [PAPER] label to your submission title in PCS.</p>
 
