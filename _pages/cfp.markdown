@@ -66,8 +66,8 @@ permalink: /cfp/
 <h3>Important Dates</h3>
 
 |  Submission Due:  |  <del>1 July 2023</del> 8 July 2023  |
-|  Notification:  |  28 July 2023  |
-|  Camera Ready:  |  18 August 2023 |
+|  Notification:  |  <del>28 July 2023</del> 7 August 2023 |
+|  Camera Ready:  |  <del>18 August 2023</del> 14 August 2023 |
 
 <hr>
 
