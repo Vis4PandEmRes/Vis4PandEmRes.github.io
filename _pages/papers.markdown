@@ -14,6 +14,3 @@ Pawandeep Kaur Betz, Julien Stoll, Valerie Grappendorf, Jonas Gilg, Moritz Zeume
 
 <p><strong>Visual Analytics based Search-Analyze-Forecast Framework for Epidemiological Time-series Data</strong><br>
 Tuna Gonen, Yiwen Xing, Cagatay Turkay, Alfie Abdul-Rahman, Radu Jianu, Hui Fang, Euan Freeman, Franck Vidal, Min Chen</p>
-
-<p><strong>EnsembleDashVis Views and Volunteers: A Retrospective and Early History</strong><br>
-Qiru Wang, Robert S. Laramee</p>
