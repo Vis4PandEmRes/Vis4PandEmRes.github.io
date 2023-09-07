@@ -14,4 +14,5 @@ Pawandeep Kaur Betz, Julien Stoll, Valerie Grappendorf, Jonas Gilg, Moritz Zeume
 <a href="https://arxiv.org/pdf/2304.04635v3.pdf">arXiv</a></p>
 
 <p><strong>Visual Analytics based Search-Analyze-Forecast Framework for Epidemiological Time-series Data</strong><br>
-Tuna Gonen, Yiwen Xing, Cagatay Turkay, Alfie Abdul-Rahman, Radu Jianu, Hui Fang, Euan Freeman, Franck Vidal, Min Chen</p>
+Tuna Gonen, Yiwen Xing, Cagatay Turkay, Alfie Abdul-Rahman, Radu Jianu, Hui Fang, Euan Freeman, Franck Vidal, Min Chen<br>
+<a href="https://repository.lboro.ac.uk/articles/conference_contribution/Visual_analytics_based_search-analyze-forecast_framework_for_epidemiological_time-series_data/24038895">PDF</a></p>
