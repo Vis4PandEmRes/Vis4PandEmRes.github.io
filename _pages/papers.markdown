@@ -7,7 +7,8 @@ permalink: /papers/
 <h2>Accepted Papers</h2>
 
 <p><strong>A Lens to Pandemic Stay at Home Attitudes</strong><br>
-Andrew Wentzel, Lauren Levine, Vipul Dhariwal, Zahra Fatemi, Abari Bhattacharya, Barbara Di Eugenio, Andrew Rojecki, Elena Zheleva, G. Elisabeta Marai</p>
+Andrew Wentzel, Lauren Levine, Vipul Dhariwal, Zahra Fatemi, Abari Bhattacharya, Barbara Di Eugenio, Andrew Rojecki, Elena Zheleva, G. Elisabeta Marai<br>
+<a href="https://arxiv.org/abs/2308.13552">arXiv</a></p>
 
 <p><strong>ESID: Exploring the Design and Development of a Visual Analytics Tool to Epidemiological Emergencies</strong><br>
 Pawandeep Kaur Betz, Julien Stoll, Valerie Grappendorf, Jonas Gilg, Moritz Zeumer, Margrit Klitz, Luca Spataro, Anne Klein, Lena Rothenhäuser, Hartmut Bohnacker, Hans Krämer, Michael Meyer-Hermann, Sybille Somogyi, Andreas Gerndt, Martin J. Kühn<br>
