@@ -33,8 +33,8 @@ permalink: /schedule/
 <tr>
     <td class="cell-center">09:10</td>
     <td>
-		Keynote <br>
-		Prof Catherine Bennett, Deakin University: <strong>On Communicating Complex and Changing Science in a Pandemic</strong>
+		<a href="/keynote">Keynote</a> <br>
+		<a href="https://www.deakin.edu.au/about-deakin/people/catherine-bennett">Prof Catherine Bennett</a>, Deakin University: <strong>On Communicating Complex and Changing Science in a Pandemic</strong>
 	</td>
 </tr>
 
